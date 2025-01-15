@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+
+    background: linear-gradient(90deg, #79789c, #d9dbe1);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    // height: -100vh;
+    margin: 0;
+    min-height: 100%;
+    width: 100%;
+}
+
+// html { background-color: rgb(2, 43, 59); }
