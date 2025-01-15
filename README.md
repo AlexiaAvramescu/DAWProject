@@ -1,6 +1,6 @@
 # DAWProject
 
-## RealEstateOnlineShop
+## RealEstateShop
 This project was generated with Angular CLI version 14.0.5.
 
 ## Development server
